@@ -39,7 +39,7 @@ Team Leader
 ### Financial Skills
 Valuation methods, Financial model Excel, Solver Excel
 ### Data skills
-Python, SQL, Tableau, R, RapidMiner Studio, Salesforce, AWS, PowerBI, Prompt Engineering
+Python, SQL, R, Tableau, RapidMiner Studio, Salesforce, AWS, PowerBI, Prompt Engineering
 
 ### Languages:Japanese, English, German
 
