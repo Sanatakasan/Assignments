@@ -2,6 +2,8 @@
 #### tsanada@student.hult.edu
 #### https://www.linkedin.com/in/takahisa-sanada-44a098144
 
+#### Portfolio https://github.com/Sanatakasan/Portfolio/issues
+
 # Work experience
 ### Nomura Securities | Tokyo, Japan	Aug 2023
 Stock Analyst Summer Internship 
