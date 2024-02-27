@@ -1,3 +1,6 @@
+# Takahisa Sanada
+#### tsanada@student.hult.edu
+#### https://www.linkedin.com/in/takahisa-sanada-44a098144
 
 # Work experience
 ### Nomura Securities | Tokyo, Japan	Aug 2023
